@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zhangv.github.io/gh/sitemap.xml

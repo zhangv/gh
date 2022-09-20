@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>广候社会设计</title>
+    <link href="https://zhangv.github.io/gh/feed.xml" rel="self" />
+    <link href="https://zhangv.github.io/gh" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>广候</name>
+    </author>
+    <id>https://zhangv.github.io/gh</id>
+
+</feed>

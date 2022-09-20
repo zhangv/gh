@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "广候社会设计",
+    "description": "",
+    "home_page_url": "https://zhangv.github.io/gh",
+    "feed_url": "https://zhangv.github.io/gh/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "广候"
+    },
+    "items": [
+    ]
+}
