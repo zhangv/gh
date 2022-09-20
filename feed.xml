@@ -3,10 +3,31 @@
     <title>广候社会设计</title>
     <link href="https://zhangv.github.io/gh/feed.xml" rel="self" />
     <link href="https://zhangv.github.io/gh" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-09-20T16:05:40+08:00</updated>
     <author>
         <name>广候</name>
     </author>
     <id>https://zhangv.github.io/gh</id>
 
+    <entry>
+        <title>这件事本身就是一个社会设计案例</title>
+        <author>
+            <name>广候</name>
+        </author>
+        <link href="https://zhangv.github.io/gh/zhe-jian-shi-ben-shen-jiu-shi-yi-ge-she-ji-she-ji-an-li.html"/>
+        <id>https://zhangv.github.io/gh/zhe-jian-shi-ben-shen-jiu-shi-yi-ge-she-ji-she-ji-an-li.html</id>
+            <category term="知行钥匙"/>
+
+        <updated>2022-09-20T16:05:40+08:00</updated>
+            <summary>
+                <![CDATA[
+                    什么是社会设计？什么是社会？什么是设计？
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>什么是社会设计？什么是社会？什么是设计？</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
